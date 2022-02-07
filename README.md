@@ -5,12 +5,12 @@
 
 
 # 개발자
-<h3>-frontend: Buyn ,guri<br>
--backend :Emili5,Jungeun-dev<h3>
+- frontend: @Byun ,gyuri <br>
+- backend : @emili5 @Jungeunkim-dev
 
  # 기술스택
- <h3>frontend: Reactive-Native<br>
- backend : Spring boot framework+ AWS+ MySQL<h3>
+ - frontend: Reactive-Native<br>
+ - backend : Spring boot framework+ AWS+ MySQL
  
  
   
