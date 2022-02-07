@@ -5,8 +5,8 @@
 
 
 # 개발자
-- frontend: @Byun ,gyuri <br>
-- backend : @emili5 @Jungeunkim-dev
+- frontend: Byun ,gyuri <br>
+- backend : emili5 ,Jungeunkim-dev
 
  # 기술스택
  - frontend: Reactive-Native<br>
